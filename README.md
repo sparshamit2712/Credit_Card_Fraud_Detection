@@ -6,6 +6,6 @@ After using different models including ensemble models and found out that the be
 
 I have used google colab because the dataset is quite bulky and required a lot of time for training the model.
 
-All you have to do is download or copy the code and just change the path for dataset and run it on your machine.
+
 
 The dataset is availabe on the following link-: https://www.kaggle.com/mlg-ulb/creditcardfraud
